@@ -13,3 +13,4 @@ The code allows to simulate habituation of a system defined as a set of ODEs in 
 All figure papers can be reproduced from the notebook paper_figures_all.ipynb.
 There is also the code to reproduce the models originally proposed by Staddon, as we discuss in the paper. 
 
+![habituation_graphical](https://github.com/user-attachments/assets/7093d73a-099d-4b33-bc2a-0b11d3c321f4)
